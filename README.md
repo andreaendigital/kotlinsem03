@@ -110,3 +110,26 @@ Sem03/
 ## Objetivo académico
 
 Aplicar los aprendizajes de Kotlin y POO en una solución funcional para la gestión de una pizzería, demostrando validación de datos, manejo de errores, control de inventario, cálculo de totales y uso de características avanzadas del lenguaje.
+
+
+## Screenshots 
+
+
+<img width="1254" height="524" alt="Captura de pantalla 2026-11-09 231332" src="https://github.com/user-attachments/assets/e0c77bc8-a912-4e70-9761-d7932dadd6fb" />
+
+<img width="549" height="354" alt="Captura de pantalla 2026-11-09 231338" src="https://github.com/user-attachments/assets/0b33cafe-8aa0-4c1e-b26e-50c5a5b51054" />
+
+<img width="913" height="459" alt="Captura de pantalla 2026-11-09 231403" src="https://github.com/user-attachments/assets/83eed2f1-b088-4e34-8d39-a0e75f2197c3" />
+
+<img width="719" height="369" alt="Captura de pantalla 2026-11-09 231535" src="https://github.com/user-attachments/assets/f5f6be29-95ac-4713-be41-4e19158a1261" />
+
+<img width="584" height="482" alt="Captura de pantalla 2026-11-09 231542" src="https://github.com/user-attachments/assets/f9e11f1c-a7c1-42d6-88e7-a53bb27a43f9" />
+
+
+
+
+
+
+
+
+
